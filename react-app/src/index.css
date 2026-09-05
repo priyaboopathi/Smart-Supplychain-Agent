@@ -37,7 +37,7 @@ body {
   font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, sans-serif;
   background-color: var(--ink-950);
-  color: #f1f5f9;
+  color: #34587c;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -123,8 +123,8 @@ pre {
 /* Recharts renders its own SVG text, which does not inherit the body colour. */
 .recharts-cartesian-axis-tick text,
 .recharts-legend-item-text {
-  fill: #94a3b8 !important;
-  color: #94a3b8 !important;
+  fill: #010b18 !important;
+  color: #031938 !important;
   font-size: 11px;
 }
 
